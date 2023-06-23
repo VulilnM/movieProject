@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MovieService\\MovieService.csproj",
+      "projectUniqueName": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MoviesService\\MovieService.csproj",
       "projectName": "MovieService",
-      "projectPath": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MovieService\\MovieService.csproj",
+      "projectPath": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MoviesService\\MovieService.csproj",
       "packagesPath": "C:\\Users\\v-milanvulin\\.nuget\\packages\\",
-      "outputPath": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MovieService\\obj\\",
+      "outputPath": "C:\\AkvelonMiddleNetCoreAttestation\\movieProject\\MoviesService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-milanvulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
