@@ -1,0 +1,1 @@
+This is a simple movie app done for the purpose of learning Net Core, Microservices, Docker, Kubernetes and rest of the tech stack for a lightweight easily scalilable and maintainable app.
